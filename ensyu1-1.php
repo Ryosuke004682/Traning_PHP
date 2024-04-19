@@ -1,7 +1,8 @@
 <?php
-    $numbar = 5;
+    $number= 5;
 
-    echo $number . 'です。<br>'
+    echo $number . '時です。<br>';
+
     switch($number) {
         case 0:
         case 1:
