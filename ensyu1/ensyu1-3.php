@@ -1,4 +1,5 @@
 <?php
+    //素数かどうかのプログラム
     $number = 1;
     $check = false;
 

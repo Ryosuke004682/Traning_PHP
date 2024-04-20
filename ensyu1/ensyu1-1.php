@@ -1,4 +1,5 @@
 <?php
+    //switch文を使った時間別挨拶プログラム
     $number= 5;
 
     echo $number . '時です。<br>';
