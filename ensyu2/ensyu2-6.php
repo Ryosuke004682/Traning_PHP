@@ -8,6 +8,7 @@
             $this->__set('age' , $age);
         }
 
+        //プロパティチェック
         public function __set($var , $value) {
             switch ($var) {
                 case 'name':
